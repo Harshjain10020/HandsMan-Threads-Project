@@ -133,7 +133,6 @@ HandsMen Threads, a dynamic organization in the fashion industry, launched this 
 
 Project developed as part of the **Salesforce Developer Program**.
 
-Mentor: _(Add mentor name if assigned)_
 
 ---
 
